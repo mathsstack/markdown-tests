@@ -25,4 +25,35 @@ Lista:
 Lista de tarefas:
 
 - [ ] Create a bok
-- [ ] Add another thing
+- [x] Add another thing
+
+Links:
+
+[A link for a video](https://www.cursoemvideo.com/curso/curso-de-git-e-github/aulas/aulas-de-git-e-github/modulos/guia-da-linguagem-markdown-curso-de-git-e-github/)
+
+Tables:
+
+Num | nome | media
+---|---|---
+1 | Gustavo | 9.5
+2 | Vitor | 10
+
+Code:
+
+How to use `document.getElementById()` of Js
+
+```python
+
+num = int(input("Digite um valor: "))
+if num % 2 == 0:
+  print(f'O valor de {num} é par')
+else:
+  print(f'O valor de {num} é ímpar')
+  
+```
+
+Emojis:
+
+:vulcan_salute:
+:hand:
+:smile: 🐒
